@@ -1,2 +1,2 @@
-# rag-llamaindex-youtube
+# rag-llamaindex-wikipedia
  

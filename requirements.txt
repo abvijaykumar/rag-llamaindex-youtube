@@ -1,0 +1,8 @@
+python-dotenv
+openai
+llama-index
+streamlit
+nltk
+youtube_transcript_api
+llama-hub
+
