@@ -7,8 +7,6 @@ from llama_index.response.pprint_utils import pprint_response
 from llama_index.llms import OpenAI
 from llama_index import download_loader
 from llama_index import VectorStoreIndex, load_index_from_storage, ServiceContext
-#from llama_hub.youtube_transcript import YoutubeTranscriptReader
-#from llama_index.readers import YoutubeTranscriptReader
 from llama_hub.youtube_transcript import YoutubeTranscriptReader
 from llama_hub.youtube_transcript import is_youtube_video
 
